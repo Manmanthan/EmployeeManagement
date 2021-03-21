@@ -15,7 +15,7 @@ import com.nagarro.training.dto.EmployeeDto;
 import com.nagarro.training.service.EmployeeService;
 
 /**
- * Controller to define URL mappings.
+ * Controller to define URL mappings
  * @author manbhardwaj
  *
  */
